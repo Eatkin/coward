@@ -1,0 +1,43 @@
+What to do now:
+Fade in/fade out transitions - make them a little bit flickery, some alpha jitter
+Make the desk cutscene
+Zoom transition
+
+Then we go into Min's game which I have to make lol
+
+The desk:
+Has some stuff on it
+You click the computer to access things
+You can choose forums, game maker or instant messaging (available later)
+I'll just show the game Min's making at the moment which will be the maze game
+You collect coins or some shit
+After 30 seconds he says "Actually the maze has no ending." and the game ends
+
+
+
+Here's some ideas about things to explore on the first day:
+We look at the Chips Challenge clone the protagonist is making. The graphics can be pillow shaded and bad
+Muted sepia tones
+Crunchy jpeg compressiono
+But the gameplay needn't be bad, becuase I'm making it, I can have some fun juice and shit like that
+You play for 30 seconds exploring a maze and then the game ends
+
+We explore the forums, we see a few releases including our friend Keras' shitty game which receives a lot of negative attention
+
+We get a short cutscene discussing Keras
+This game is captivating
+It cannot be described as anything other than bad, yet, they release it into the world
+Nobody seems to like it, but it doesn't seem to bother them
+It seems like they are making pure expressionist art
+Who is this person?
+
+
+Some boring stuff:
+Disable scrollbars
+Resolution management
+
+
+
+Random ideas:
+Eventually we can visit things like Keras' website to see what they're doing
+The desk can change each time and we get a little life catch up
