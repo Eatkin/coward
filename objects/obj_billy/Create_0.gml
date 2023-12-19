@@ -1,7 +1,12 @@
 xspeed = 0;
 yspeed = 0;
 
-var grid_size = 16;
+// Movement stuff
+x_pos_last = x;
+y_pos_last = y;
+moving = false;
 
-// Must be some exact log2 of grid_size
-maxspeed = 2;
+// Timing function for movement
+timer = 0;
+timer_step = 3 / room_speed;
+easing_function = ease_out_quad;

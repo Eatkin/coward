@@ -50,6 +50,7 @@
   "resources": [
     {"id":{"name":"obj_billy","path":"objects/obj_billy/obj_billy.yy",},},
     {"id":{"name":"scr_create_transition","path":"scripts/scr_create_transition/scr_create_transition.yy",},},
+    {"id":{"name":"ease_out_quad","path":"scripts/ease_out_quad/ease_out_quad.yy",},},
     {"id":{"name":"Games to Play","path":"notes/Games to Play/Games to Play.yy",},},
     {"id":{"name":"obj_cutscene_fade_text","path":"objects/obj_cutscene_fade_text/obj_cutscene_fade_text.yy",},},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},},
