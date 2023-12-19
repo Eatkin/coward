@@ -8,4 +8,5 @@
 draw_set_font(fnt_default);
 scr_init_dialogue_struct();
 
-room_goto(rm_intro_cutscene);
+var destination = rm_first_game;
+room_goto(destination);

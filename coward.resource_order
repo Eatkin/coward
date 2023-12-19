@@ -44,7 +44,7 @@
     {"name":"rm_first_game","order":2,"path":"rooms/rm_first_game/rm_first_game.yy",},
     {"name":"global_input_manager","order":3,"path":"objects/global_input_manager/global_input_manager.yy",},
     {"name":"rm_intro_cutscene","order":1,"path":"rooms/rm_intro_cutscene/rm_intro_cutscene.yy",},
-    {"name":"spr_maze_block","order":1,"path":"sprites/spr_maze_block/spr_maze_block.yy",},
+    {"name":"spr_maze_tiles","order":1,"path":"sprites/spr_maze_tiles/spr_maze_tiles.yy",},
     {"name":"par_dialogue","order":3,"path":"objects/par_dialogue/par_dialogue.yy",},
     {"name":"ease_in_quad","order":3,"path":"scripts/ease_in_quad/ease_in_quad.yy",},
     {"name":"obj_min_intro_cutscene","order":1,"path":"objects/obj_min_intro_cutscene/obj_min_intro_cutscene.yy",},
