@@ -1,0 +1,11 @@
+The vijew of the first game is 270x270 but it gets stretched on screen
+Need to make a resolution manager so this kind of fucked shit doesn't happen which is a huge pain in the but
+Basically means we need to manually manage the camera for each level which can handle drawing black bars etc
+Or something
+Fucking hate this shit lol
+
+The last two dialogues should be queued after death
+
+Add some ghosts that multiply upon movement or something
+
+Then the final monster can be a fast eratic bug which gets triggered when you hit the dialogue cue

@@ -21,24 +21,29 @@ function scr_init_dialogue_struct(){
 		],
 		first_game_walkthrough: [
 			"So obviously it's just a Chip's Challenge clone",
-			"But probably worse",
+			"But way worse",
 			"Maybe if I keep creating I can hide the internal pain I feel",
-			"So the monsters in the game can't actually get to you",
-			"They represent the people playing my game",
-			"I'm too scared of what people to say to share, so they can never get to me",
-			"But at the end there's this one monster",
-			"You can't escape them",
-			"They'll get you eventually",
-			"That represents, I don't know, me failing I suppose?",
+			"Okay yeah, it sucks",
+			"I gave up on it",
+			"Maybe I'm just too lazy too make games",
+			"It's like I have all these ideas then when I try make them",
+			"I can't",
+			"Okay let's not play this anymore",
 		],
 		keras_introduction: [
-			"So there was this developer on the forums called Keras",
+			"So I browse the game maker forums",
+			"There's this guy I keep seeing, called Keras",
 			"He's basically the opposite of me",
 			"He makes games at a furious pace",
 			"They can only be described as bad",
-			"But he just, doesn't care, and creates anyway"
+			"But he just, doesn't care, and creates anyway",
+			"No matter how much negative feedback",
+			"He just continues",
 		],
 		keras_first_game: [
+			"So this is Keras' latest game",
+			"Tomato Boat",
+			"What kind of name is Tomato Boat?",
 			"I mean, it's buggy as hell",
 			"It doesn't look good",
 			"But strangely, I'm fascinated",
@@ -46,6 +51,7 @@ function scr_init_dialogue_struct(){
 			"I can't even bring myself to post in the forums",
 			"Let alone share",
 			"Too afraid of being judged",
+			"But he just, does things without fear",
 		]
 	}
 }

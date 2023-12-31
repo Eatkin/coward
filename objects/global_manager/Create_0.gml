@@ -10,3 +10,5 @@ scr_init_dialogue_struct();
 
 var destination = rm_first_game;
 room_goto(destination);
+
+randomise();

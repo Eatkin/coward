@@ -7,7 +7,6 @@ var vinput = max(array_contains(global.keys_held, Keys.Down), array_contains(glo
 var grid_size = 16
 
 // Handles collisions and shit
-// TODO: Use tweening and easing for squash/stretch and movement instead of linear
 if (!moving)	{
 	// Can't move diagonally so prioritise horizontal if possible
 	if (hinput != 0)	{
@@ -47,6 +46,16 @@ if (moving)	{
 		x_pos_last = x;
 		y_pos_last = y;
 	}
+}
+
+// Die
+if (place_meeting(x, y, obj_maze_enemy1))	{
+	x = xstart;
+	y = ystart;
+	x_pos_last = x;
+	y_pos_last = y;
+	xspeed = 0;
+	yspeed = 0;
 }
 
 // Now control the tweens
