@@ -1,13 +1,16 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_block",
-  "eventList": [],
+  "name": "obj_tomato_boat",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "TomatoBoat",
+    "path": "folders/Objects/TomatoBoat.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,9 +29,9 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_block_16",
-    "path": "sprites/spr_block_16/spr_block_16.yy",
+    "name": "spr_tomato_boat",
+    "path": "sprites/spr_tomato_boat/spr_tomato_boat.yy",
   },
   "spriteMaskId": null,
-  "visible": false,
+  "visible": true,
 }

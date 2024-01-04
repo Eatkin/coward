@@ -25,7 +25,7 @@ function scr_init_dialogue_struct(){
 			"Maybe if I keep creating I can hide the internal pain I feel",
 			"Okay yeah, it sucks",
 			"I gave up on it",
-			"Maybe I'm just too lazy too make games",
+			"Maybe I'm just too lazy to make games",
 			"It's like I have all these ideas then when I try make them",
 			"I can't",
 			"Okay let's not play this anymore",
@@ -41,16 +41,17 @@ function scr_init_dialogue_struct(){
 			"He just continues",
 		],
 		keras_first_game: [
-			"So this is Keras' latest game",
+			"This is Keras' latest release",
 			"Tomato Boat",
 			"What kind of name is Tomato Boat?",
-			"I mean, it's buggy as hell",
 			"It doesn't look good",
+			"It just...isn't good",
 			"But strangely, I'm fascinated",
 			"Who is this person? Why do they make these games?",
 			"I can't even bring myself to post in the forums",
 			"Let alone share",
 			"Too afraid of being judged",
+			"A fucking coward",
 			"But he just, does things without fear",
 		]
 	}

@@ -1,12 +1,13 @@
 ticker			+=	1;
 	
 //Auto-display all text if we press mouse
-var _continue	=	mouse_check_button_pressed(mb_left);
+// (Don't do that anymore)
+var _continue	=	false;
 
 //Auto-continue after a couple seconds or howeveer long
 if (expiry <= 0)
 	_continue	=	true;
-	
+
 if (!firstFrame and _continue)	{
 	if (dialogueComplete)
 		destroyTriggered	=	true;

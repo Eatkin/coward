@@ -10,6 +10,7 @@ enum BackgroundMotion	{
 enum BackgroundEffects {
 	None,
 	MoveWithMouse,
+	Stretch,
 }
 
 function background_reset()	{

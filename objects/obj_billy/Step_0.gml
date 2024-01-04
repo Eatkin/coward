@@ -1,7 +1,6 @@
 // Grab inputs
-// Horrible
-var hinput = max(array_contains(global.keys_held, Keys.Right), array_contains(global.keys_held, Keys.AltRight)) - max(array_contains(global.keys_held, Keys.Left), array_contains(global.keys_held, Keys.AltLeft));
-var vinput = max(array_contains(global.keys_held, Keys.Down), array_contains(global.keys_held, Keys.AltDown)) - max(array_contains(global.keys_held, Keys.Up), array_contains(global.keys_held, Keys.AltUp));
+var hinput = scr_get_hinput();
+var vinput = scr_get_vinput();
 
 // Now we can move if applicable
 var grid_size = 16

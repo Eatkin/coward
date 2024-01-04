@@ -35,6 +35,13 @@ switch (room)	{
 		background_x = x;
 		background_y = y;
 		break;
+		
+	case rm_tomato_boat:
+		background_image = spr_tomato_boat_bg;
+		background_effects = BackgroundEffects.Stretch;
+		background_x = 0;
+		background_y = 0;
+		break;
 }
 
 /* Probably don't want to do this

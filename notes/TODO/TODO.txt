@@ -4,8 +4,7 @@ Basically means we need to manually manage the camera for each level which can h
 Or something
 Fucking hate this shit lol
 
-The last two dialogues should be queued after death
 
-Add some ghosts that multiply upon movement or something
-
-Then the final monster can be a fast eratic bug which gets triggered when you hit the dialogue cue
+Tomato boat plan:
+You are a tomato in a boat and every time you press a key you move in a direction but every time you get faster and you have to make it through a game
+it's a Kim Kubus game that I'm ripping off lol (crash test dummies)
