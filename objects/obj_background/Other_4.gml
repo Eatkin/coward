@@ -36,6 +36,23 @@ switch (room)	{
 		background_y = y;
 		break;
 		
+	case rm_tomato_boat_forum:
+		background_image = spr_tomato_boat_forum;
+		background_yspeed = -0.4;
+		background_motion = BackgroundMotion.ScrollVertical;
+		background_effects = BackgroundEffects.MoveWithMouse;
+		background_settings = BackgroundSettings.NoClamp;
+		background_scale = 0.65;
+		
+		// Set x coordinate to be central and y coordinate mildly offset
+		var _sw = sprite_get_width(background_image);
+		move_with_mouse_strength = _sw * background_scale - room_width;
+		x = (room_width - _sw * background_scale) * 0.5;
+		y = 0;
+		background_x = x;
+		background_y = y;
+		break;
+		
 	case rm_tomato_boat:
 		background_image = spr_tomato_boat_bg;
 		background_effects = BackgroundEffects.Stretch;

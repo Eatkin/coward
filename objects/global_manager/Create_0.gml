@@ -8,7 +8,7 @@
 draw_set_font(fnt_default);
 scr_init_dialogue_struct();
 
-var destination = rm_tomato_boat;
+var destination = rm_intro_cutscene;
 room_goto(destination);
 
 randomise();
