@@ -38,7 +38,7 @@ switch (room)	{
 		
 	case rm_tomato_boat_forum:
 		background_image = spr_tomato_boat_forum;
-		background_yspeed = -0.4;
+		background_yspeed = -0.35;
 		background_motion = BackgroundMotion.ScrollVertical;
 		background_effects = BackgroundEffects.MoveWithMouse;
 		background_settings = BackgroundSettings.NoClamp;

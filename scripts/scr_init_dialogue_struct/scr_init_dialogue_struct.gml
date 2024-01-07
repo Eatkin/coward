@@ -17,7 +17,6 @@ function scr_init_dialogue_struct(){
 			"Let me show you what I'm making",
 			"It's a maze game",
 			"Billy's Maze",
-			"Great name",
 		],
 		first_game_walkthrough: [
 			"So obviously it's just a Chip's Challenge clone",
